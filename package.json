@@ -1,0 +1,11 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "- Modify wireframe DONE - Get Country data - Show country data on the map - Show country data in a table",
+  "main": "charts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
